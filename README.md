@@ -92,7 +92,7 @@ java-jsp-jdbc-mysql-template/
 Language - [Java](https://java.com)<br />
 Database - [MySQL](https://www.mysql.com/)<br />
 Database driver - [JDBC](http://docs.oracle.com/javase/tutorial/jdbc/)<br />
-Template - [GWT](http://www.gwtproject.org/)<br />
+JS framework - [GWT](http://www.gwtproject.org/)<br />
 Build tool - [Maven](https://maven.apache.org/)
 
 ## Further Learning
