@@ -1,5 +1,5 @@
 [<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://anychart.com)
-# Java basic template
+# Java GWT basic template
 
 This example shows how to run Anychart library with Java programming language using Maven, Servlets, JDBC, GWT and MySQL.
 
@@ -70,7 +70,10 @@ java-jsp-jdbc-mysql-template/
                         Fruit.java      # Data model
                     servlets/
                         MainServlet.java    # Servlet
-                resources
+                resources/
+                    com/
+                        anychart/
+                            GWTTemplate.gwt.xml    # GWT settings
                 webapp/
                     index.css   # css styles
                     index.html   # html markup
