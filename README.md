@@ -23,7 +23,7 @@ Java home: /usr/lib/jvm/java-8-oracle/jre
 Default locale: en_US, platform encoding: UTF-8
 OS name: "linux", version: "3.16.0-38-generic", arch: "amd64", family: "unix"
 ```
-Unsure that you use Maven 3, if not you can switch to it using next command:
+Make sure you are using Maven 3, if not - you can switch to it using next command:
 ```
 sudo update-alternatives --config mvn
 ```
